@@ -10,8 +10,8 @@
 
 ## ACP log
 
-| #   | What I changed                        | Commit message | Branch |
-| --- | ------------------------------------- | -------------- | ------ |
-| 1   | Made the repo on GitHub with a README | Initial commit | main   |
-| 2   | Created my first page                 | Add first page | main   |
-| 3   | ...                                   | ...            | main   |
+| #   | What I changed                        | Commit message   | Branch |
+| --- | ------------------------------------- | ---------------- | ------ |
+| 1   | Made the repo on GitHub with a README | Initial commit   | main   |
+| 2   | Created my first page                 | Add first page   | main   |
+| 3   | Updated home page                     | Update home page | main   |
