@@ -4,8 +4,8 @@ Live link: https://jenna-aurora.github.io/week-1-checkpoint/
 
 ## My setup
 
-- Operating system:
-- Editor:
+- Operating system: Windows
+- Editor: VS Code
 - Git version: 2.55.0.windows.3
 - Git name: "Jenna Cardenas"
 - Git email: "jenna.a.cardenas@outlook.com"
@@ -24,3 +24,4 @@ Live link: https://jenna-aurora.github.io/week-1-checkpoint/
 | 8   | Created CSS file, added CSS link to index.html | Created CSS file, added CSS link to index.html | main   |
 | 9   | Add a link to a site I like                    | Add a link to a site I like                    | main   |
 | 10  | Added images file, refresh index.html and CSS  | Added images file, refresh index.html and CSS  | main   |
+| 11  | Refresh R5EADME.md                             | Refresh R5EADME.md                             | main   |
